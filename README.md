@@ -92,7 +92,7 @@ If you would like to contribute to this project, please open an issue or submit 
 
 If you have any questions or feedback, feel free to reach out:
 
-- [YouTube Channel] [https://www.youtube.com/yourchannel](https://www.youtube.com/@kapo-tech)
+- [YouTube Channel] (https://www.youtube.com/@kapo-tech)
 - [Twitter] (https://x.com/hatemag)
 
 Thank you for following along with our FastAPI tutorial series. Happy coding!
