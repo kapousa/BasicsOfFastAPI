@@ -14,7 +14,7 @@ Welcome to the FastAPI tutorial series repository! In this repository, you will 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/fastapi-tutorial.git
+   git https://github.com/kapousa/BasicsOfFastAPI.git
    cd fastapi-tutorial
    ```
 
